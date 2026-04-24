@@ -1,4 +1,3 @@
-# spicetify-genius-x
 # 🎙️ Genius X Lyrics
 Минималистичное расширение для Spicetify.
 
