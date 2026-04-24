@@ -1,0 +1,1 @@
+# spicetify-genius-x
